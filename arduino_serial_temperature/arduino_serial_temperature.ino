@@ -20,8 +20,8 @@
 
 
 
- put a 110 ohm resitance in series with the thermistor, the side of 110 resitance to 5V 
- the side of the thermistor to GND and the point where the thermistor and the resitence meet
+ put a 110 ohm resistor in series with the thermistor, the side of 110 resitance to 5V 
+ the side of the thermistor to GND and the point where the thermistor and the resistor meet
  to analog input A0
  
  
